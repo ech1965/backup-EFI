@@ -9,11 +9,11 @@
     <key>RunAtLoad</key>
     <false/>
     <key>Program</key>
-    <string>/Users/nicolas/WorkingCopies/ech1965-github.com/ech1965/backup-EFI/EFI.sh</string>
+    <string>/Users/ec/WorkingCopies/ech1965-github.com/ech1965/backup-EFI/EFI.sh</string>
     <key>StartCalendarInterval</key>
     <dict>
         <key>Hour</key>
-        <integer>00</integer>
+        <integer>11</integer>
         <key>Minute</key>
         <integer>03</integer>
     </dict>
